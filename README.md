@@ -13,4 +13,4 @@ As the world is kidn of involved in the war there is an effect on flight demands
 📊 Beta vs DAX: ~1.2–1.4
 💡 Fuel costs are a major driver for airlines
 
-🔗 [Run the Notebook](Lufthansa_AnalysisMar26) 
+🔗 [Run the Notebook](Lufthansa_AnalysisMar26.ipynb) 
