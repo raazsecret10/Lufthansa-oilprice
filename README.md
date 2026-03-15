@@ -1,4 +1,4 @@
-# Lufthansa Analysis ✈️📈
+# Lufthansa Stock Analysis: Impact of the March 2026 Iran-Middle East War
 It is second week of March2026, the war in the middle east has been going for nearly 2 weeks. 
 I did some daytrading of the lufthansa stock and it came to my mind to see why the fluctuations happen. 
 As the world is kidn of involved in the war there is an effect on flight demands, resulting in less income for airlines. 
