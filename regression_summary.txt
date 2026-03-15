@@ -1,0 +1,27 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              Lufthansa   R-squared:                       0.213
+Model:                            OLS   Adj. R-squared:                  0.205
+Method:                 Least Squares   F-statistic:                     26.59
+Date:                Sun, 15 Mar 2026   Prob (F-statistic):           3.04e-15
+Time:                        10:54:19   Log-Likelihood:                 614.40
+No. Observations:                 298   AIC:                            -1221.
+Df Residuals:                     294   BIC:                            -1206.
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0004      0.002      0.239      0.811      -0.003       0.004
+DAX           -0.2286      0.098     -2.325      0.021      -0.422      -0.035
+Oil_Brent      1.4034      0.371      3.780      0.000       0.673       2.134
+EURUSD         0.6693      0.084      7.941      0.000       0.503       0.835
+==============================================================================
+Omnibus:                      291.836   Durbin-Watson:                   2.118
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            18243.994
+Skew:                           3.711   Prob(JB):                         0.00
+Kurtosis:                      40.606   Cond. No.                         207.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
